@@ -26,7 +26,6 @@ interests:
   [
     "Software Engineering", 
     "Web Development",
-    "Data Science",
     "Machine Learning",
   ]
 hobbies: ["Technology", "Hiking", "Football"]
