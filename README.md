@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=rect&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Be%20Better!&animation=fadeIn&type=rect&color=gradient&height=100"/>
 </p>
 <p align="center">
   <img src="https://i.imgur.com/OOpRj.gif"/>
@@ -22,6 +22,14 @@
 name: Deyan Marinov
 located_in: Sofia, Bulgaria
 current_job: Java Software Engineer
+interests:
+  [
+    "Web Development",
+    "Automation",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX", 
+  ]
 hobbies: ["Technology", "Hiking", "Football"]
 ```
 <h2> 🚀 &nbsp; Some Tech Tools I Am Using</h2>
