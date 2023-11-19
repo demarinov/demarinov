@@ -51,9 +51,22 @@ hobbies: ["Technology", "Hiking", "Football"]
 </p>
 
 ## :fire: &nbsp; My GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarinov&theme=dark&background=000000)](https://github.com/demarinov)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demarinov&layout=compact&theme=vision-friendly-dark)](https://github.com/demarinov)
+<table align="center">
+  <thead>
+  <tr>
+    <th>
+       <a href="https://github.com/demarinov">
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=demarinov&theme=dark&background=000000" alt="GitHub Streaks"/>
+       </a>
+    </th>
+    <th>
+       <a href="https://github.com/demarinov">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demarinov&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+       </a>
+    </th>
+  </tr>
+  </thead>
+</table>
 
 
 
