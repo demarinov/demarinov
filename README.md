@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=rect&color=gradient&height=100"/>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/OOpRj.gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR5ODN6dzRqbGYwejhjZjUzNHlzcjJlOWlvZ2hpejFveW40NHU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 <p align="center">
    :electron: <bold>Let's connect</bold> :electron:
