@@ -12,9 +12,12 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>  
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=demarinov&style=flat-square&color=blue" alt=""/>
+</p>
 
 
-## 💻 &nbsp; About Me
+## 👨‍💻 &nbsp; About Me
 ```yaml
 name: Deyan Marinov
 located_in: Sofia, Bulgaria
@@ -40,7 +43,12 @@ hobbies: ["Technology", "Hiking", "Football"]
 </p>
 
 ## 📊 &nbsp; My GitHub Stats
-[![Deyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=demarinov&bg_color=00000000)](https://github.com/demarinov/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarinov&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demarinov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **demarinov/demarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
