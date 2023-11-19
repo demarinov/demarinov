@@ -42,7 +42,7 @@ hobbies: ["Technology", "Hiking", "Football"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
-## 📊 &nbsp; My GitHub Stats
+## :fire: &nbsp; My GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demarinov&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demarinov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
