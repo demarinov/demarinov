@@ -14,7 +14,7 @@
 </p>
 
 
-## 💻 About Me
+## 💻 &nbsp; About Me
 ```yaml
 name: Deyan Marinov
 located_in: Sofia, Bulgaria
@@ -39,7 +39,8 @@ hobbies: ["Technology", "Hiking", "Football"]
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
-
+## 📊 &nbsp; My GitHub Stats
+[![Deyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=demarinov&bg_color=00000000)](https://github.com/demarinov/github-readme-stats)
 <!--
 **demarinov/demarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
