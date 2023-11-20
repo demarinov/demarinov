@@ -24,11 +24,12 @@ located_in: Sofia, Bulgaria
 current_job: Java Software Engineer
 interests:
   [
-    "Software Engineering", 
+    "Software Engineering",
+    "Business Solutions", 
     "Web Development",
     "Machine Learning",
   ]
-hobbies: ["Technology", "Hiking", "Football"]
+hobbies: ["Technology", "Hiking", "Movies" , "Football"]
 ```
 <h2> 🚀 &nbsp; Some Tech Tools I Am Using</h2>
 <p align="left">
