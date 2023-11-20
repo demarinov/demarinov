@@ -20,8 +20,8 @@
 ## 👨‍💻 &nbsp; About Me
 ```yaml
 name: Deyan Marinov
-located_in: Sofia, Bulgaria
-current_job: Java Software Engineer
+location: Sofia, Bulgaria
+job: Java Software Engineer
 interests:
   [
     "Software Engineering",
