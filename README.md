@@ -21,7 +21,7 @@
 ```yaml
 name: Deyan Marinov
 location: Sofia, Bulgaria
-job: Java Software Engineer
+role: Java Software Engineer
 interests:
   [
     "Software Engineering",
