@@ -27,9 +27,8 @@ interests:
     "Software Engineering",
     "Business Solutions", 
     "Web Development",
-    "Machine Learning",
   ]
-hobbies: ["Technology", "Hiking", "Movies" , "Football"]
+hobbies: ["Technology", "Movies" , "Football"]
 ```
 <h2> 🚀 &nbsp; Some Tech Tools I Am Using</h2>
 <p align="left">
