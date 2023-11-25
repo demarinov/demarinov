@@ -30,7 +30,7 @@ interests:
   ]
 hobbies: ["Technology", "Movies" , "Football"]
 ```
-<h2> 🚀 &nbsp; Some Tech Tools I Am Using</h2>
+<h2> 🚀 &nbsp; Cool Tech Tools I Am Using</h2>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
